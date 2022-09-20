@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author emmac
+ *
+ */
+module wordle {
+}
